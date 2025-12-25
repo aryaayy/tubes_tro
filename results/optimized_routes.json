@@ -1,0 +1,3869 @@
+[
+    {
+        "Kecamatan_ID": 0,
+        "Vehicle": "Kec0_TRUK_1",
+        "Route_Nodes": [
+            0,
+            4,
+            5,
+            2,
+            7,
+            8,
+            1,
+            208
+        ],
+        "Total_Load": 5.21,
+        "Total_Dist": 55.67,
+        "Total_Time": 3.86,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 5.21,
+                "Dur": 3.86
+            }
+        ],
+        "Cost": 835005
+    },
+    {
+        "Kecamatan_ID": 0,
+        "Vehicle": "Kec0_TRUK_2",
+        "Route_Nodes": [
+            0,
+            9,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 53.42,
+        "Total_Time": 2.53,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.53
+            }
+        ],
+        "Cost": 801255
+    },
+    {
+        "Kecamatan_ID": 0,
+        "Vehicle": "Kec0_TRUK_3",
+        "Route_Nodes": [
+            0,
+            6,
+            208,
+            0,
+            4,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 99.83,
+        "Total_Time": 4.82,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.51
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.31
+            }
+        ],
+        "Cost": 1497450
+    },
+    {
+        "Kecamatan_ID": 0,
+        "Vehicle": "Kec0_TRUK_4",
+        "Route_Nodes": [
+            0,
+            2,
+            208,
+            0,
+            3,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 97.78,
+        "Total_Time": 4.76,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.44
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.32
+            }
+        ],
+        "Cost": 1466715
+    },
+    {
+        "Kecamatan_ID": 0,
+        "Vehicle": "Kec0_TRUK_5",
+        "Route_Nodes": [
+            0,
+            8,
+            208,
+            0,
+            5,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 96.52,
+        "Total_Time": 4.72,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.4
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.32
+            }
+        ],
+        "Cost": 1447860
+    },
+    {
+        "Kecamatan_ID": 0,
+        "Vehicle": "Kec0_TRUK_6",
+        "Route_Nodes": [
+            0,
+            1,
+            208,
+            0,
+            7,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 97.2,
+        "Total_Time": 4.74,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.39
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.35
+            }
+        ],
+        "Cost": 1457955
+    },
+    {
+        "Kecamatan_ID": 1,
+        "Vehicle": "Kec1_TRUK_1",
+        "Route_Nodes": [
+            10,
+            24,
+            20,
+            12,
+            23,
+            17,
+            18,
+            208,
+            10,
+            14,
+            208,
+            10,
+            21,
+            208
+        ],
+        "Total_Load": 18.01,
+        "Total_Dist": 142.07,
+        "Total_Time": 8.24,
+        "Status": "OVERTIME (+0.2h)",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.01,
+                "Dur": 3.66
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.3
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.28
+            }
+        ],
+        "Cost": 2130975
+    },
+    {
+        "Kecamatan_ID": 1,
+        "Vehicle": "Kec1_TRUK_2",
+        "Route_Nodes": [
+            10,
+            21,
+            22,
+            26,
+            208,
+            10,
+            12,
+            208,
+            10,
+            17,
+            208
+        ],
+        "Total_Load": 17.9,
+        "Total_Dist": 141.72,
+        "Total_Time": 7.47,
+        "Status": "AMAN",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 5.9,
+                "Dur": 2.89
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.3
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.28
+            }
+        ],
+        "Cost": 2125680
+    },
+    {
+        "Kecamatan_ID": 1,
+        "Vehicle": "Kec1_TRUK_3",
+        "Route_Nodes": [
+            10,
+            25,
+            208,
+            10,
+            11,
+            208,
+            10,
+            18,
+            208
+        ],
+        "Total_Load": 18.0,
+        "Total_Dist": 140.44,
+        "Total_Time": 6.93,
+        "Status": "AMAN",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.34
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.31
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.28
+            }
+        ],
+        "Cost": 2106645
+    },
+    {
+        "Kecamatan_ID": 1,
+        "Vehicle": "Kec1_TRUK_4",
+        "Route_Nodes": [
+            10,
+            16,
+            208,
+            10,
+            13,
+            208,
+            10,
+            15,
+            208
+        ],
+        "Total_Load": 18.0,
+        "Total_Dist": 140.46,
+        "Total_Time": 6.93,
+        "Status": "AMAN",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.33
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.32
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.28
+            }
+        ],
+        "Cost": 2106900
+    },
+    {
+        "Kecamatan_ID": 1,
+        "Vehicle": "Kec1_TRUK_5",
+        "Route_Nodes": [
+            10,
+            26,
+            208,
+            10,
+            24,
+            208,
+            10,
+            23,
+            208
+        ],
+        "Total_Load": 18.0,
+        "Total_Dist": 140.89,
+        "Total_Time": 6.94,
+        "Status": "AMAN",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.33
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.31
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.3
+            }
+        ],
+        "Cost": 2113440
+    },
+    {
+        "Kecamatan_ID": 1,
+        "Vehicle": "Kec1_TRUK_6",
+        "Route_Nodes": [
+            10,
+            19,
+            208,
+            10,
+            22,
+            208,
+            10,
+            20,
+            208
+        ],
+        "Total_Load": 18.0,
+        "Total_Dist": 140.64,
+        "Total_Time": 6.94,
+        "Status": "AMAN",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.32
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.32
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.3
+            }
+        ],
+        "Cost": 2109630
+    },
+    {
+        "Kecamatan_ID": 2,
+        "Vehicle": "Kec2_TRUK_1",
+        "Route_Nodes": [
+            27,
+            29,
+            30,
+            208
+        ],
+        "Total_Load": 3.29,
+        "Total_Dist": 48.95,
+        "Total_Time": 2.63,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 3.29,
+                "Dur": 2.63
+            }
+        ],
+        "Cost": 734325
+    },
+    {
+        "Kecamatan_ID": 2,
+        "Vehicle": "Kec2_TRUK_2",
+        "Route_Nodes": [
+            27,
+            30,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 48.86,
+        "Total_Time": 2.38,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.38
+            }
+        ],
+        "Cost": 732885
+    },
+    {
+        "Kecamatan_ID": 2,
+        "Vehicle": "Kec2_TRUK_3",
+        "Route_Nodes": [
+            27,
+            32,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 46.06,
+        "Total_Time": 2.29,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.29
+            }
+        ],
+        "Cost": 690930
+    },
+    {
+        "Kecamatan_ID": 2,
+        "Vehicle": "Kec2_TRUK_4",
+        "Route_Nodes": [
+            27,
+            31,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 45.41,
+        "Total_Time": 2.26,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.26
+            }
+        ],
+        "Cost": 681135
+    },
+    {
+        "Kecamatan_ID": 2,
+        "Vehicle": "Kec2_TRUK_5",
+        "Route_Nodes": [
+            27,
+            33,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 45.01,
+        "Total_Time": 2.25,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.25
+            }
+        ],
+        "Cost": 675150
+    },
+    {
+        "Kecamatan_ID": 2,
+        "Vehicle": "Kec2_TRUK_6",
+        "Route_Nodes": [
+            27,
+            29,
+            208,
+            27,
+            28,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 87.66,
+        "Total_Time": 4.42,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.24
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.18
+            }
+        ],
+        "Cost": 1314990
+    },
+    {
+        "Kecamatan_ID": 3,
+        "Vehicle": "Kec3_TRUK_1",
+        "Route_Nodes": [
+            34,
+            35,
+            36,
+            37,
+            39,
+            208
+        ],
+        "Total_Load": 3.74,
+        "Total_Dist": 43.01,
+        "Total_Time": 2.93,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 3.74,
+                "Dur": 2.93
+            }
+        ],
+        "Cost": 645105
+    },
+    {
+        "Kecamatan_ID": 3,
+        "Vehicle": "Kec3_TRUK_2",
+        "Route_Nodes": [
+            34,
+            40,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 44.99,
+        "Total_Time": 2.25,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.25
+            }
+        ],
+        "Cost": 674835
+    },
+    {
+        "Kecamatan_ID": 3,
+        "Vehicle": "Kec3_TRUK_3",
+        "Route_Nodes": [
+            34,
+            39,
+            208,
+            34,
+            37,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 83.66,
+        "Total_Time": 4.29,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.15
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.14
+            }
+        ],
+        "Cost": 1254840
+    },
+    {
+        "Kecamatan_ID": 3,
+        "Vehicle": "Kec3_TRUK_4",
+        "Route_Nodes": [
+            34,
+            38,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 42.13,
+        "Total_Time": 2.15,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.15
+            }
+        ],
+        "Cost": 632025
+    },
+    {
+        "Kecamatan_ID": 3,
+        "Vehicle": "Kec3_TRUK_5",
+        "Route_Nodes": [
+            34,
+            36,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 42.14,
+        "Total_Time": 2.15,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.15
+            }
+        ],
+        "Cost": 632070
+    },
+    {
+        "Kecamatan_ID": 3,
+        "Vehicle": "Kec3_TRUK_6",
+        "Route_Nodes": [
+            34,
+            35,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 42.13,
+        "Total_Time": 2.15,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.15
+            }
+        ],
+        "Cost": 631995
+    },
+    {
+        "Kecamatan_ID": 4,
+        "Vehicle": "Kec4_TRUK_1",
+        "Route_Nodes": [
+            41,
+            42,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 61.21,
+        "Total_Time": 2.79,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.79
+            }
+        ],
+        "Cost": 918180
+    },
+    {
+        "Kecamatan_ID": 4,
+        "Vehicle": "Kec4_TRUK_2",
+        "Route_Nodes": [
+            41,
+            42,
+            208
+        ],
+        "Total_Load": 0.86,
+        "Total_Dist": 61.21,
+        "Total_Time": 2.79,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 0.86,
+                "Dur": 2.79
+            }
+        ],
+        "Cost": 918180
+    },
+    {
+        "Kecamatan_ID": 5,
+        "Vehicle": "Kec5_TRUK_1",
+        "Route_Nodes": [
+            43,
+            52,
+            45,
+            44,
+            208
+        ],
+        "Total_Load": 5.44,
+        "Total_Dist": 47.5,
+        "Total_Time": 2.83,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 5.44,
+                "Dur": 2.83
+            }
+        ],
+        "Cost": 712485
+    },
+    {
+        "Kecamatan_ID": 5,
+        "Vehicle": "Kec5_TRUK_2",
+        "Route_Nodes": [
+            43,
+            48,
+            47,
+            208,
+            43,
+            46,
+            208
+        ],
+        "Total_Load": 9.56,
+        "Total_Dist": 90.7,
+        "Total_Time": 4.77,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 3.56,
+                "Dur": 2.54
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.23
+            }
+        ],
+        "Cost": 1360425
+    },
+    {
+        "Kecamatan_ID": 5,
+        "Vehicle": "Kec5_TRUK_3",
+        "Route_Nodes": [
+            43,
+            51,
+            208,
+            43,
+            44,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 91.48,
+        "Total_Time": 4.55,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.31
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.24
+            }
+        ],
+        "Cost": 1372185
+    },
+    {
+        "Kecamatan_ID": 5,
+        "Vehicle": "Kec5_TRUK_4",
+        "Route_Nodes": [
+            43,
+            45,
+            208,
+            43,
+            48,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 91.82,
+        "Total_Time": 4.56,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.3
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.26
+            }
+        ],
+        "Cost": 1377180
+    },
+    {
+        "Kecamatan_ID": 5,
+        "Vehicle": "Kec5_TRUK_5",
+        "Route_Nodes": [
+            43,
+            52,
+            208,
+            43,
+            49,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 91.15,
+        "Total_Time": 4.54,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.3
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.24
+            }
+        ],
+        "Cost": 1367130
+    },
+    {
+        "Kecamatan_ID": 5,
+        "Vehicle": "Kec5_TRUK_6",
+        "Route_Nodes": [
+            43,
+            50,
+            208,
+            43,
+            47,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 92.4,
+        "Total_Time": 4.58,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.29
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.29
+            }
+        ],
+        "Cost": 1385910
+    },
+    {
+        "Kecamatan_ID": 6,
+        "Vehicle": "Kec6_TRUK_1",
+        "Route_Nodes": [
+            53,
+            54,
+            57,
+            208
+        ],
+        "Total_Load": 1.06,
+        "Total_Dist": 56.49,
+        "Total_Time": 2.88,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 1.06,
+                "Dur": 2.88
+            }
+        ],
+        "Cost": 847335
+    },
+    {
+        "Kecamatan_ID": 6,
+        "Vehicle": "Kec6_TRUK_2",
+        "Route_Nodes": [
+            53,
+            59,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 59.45,
+        "Total_Time": 2.73,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.73
+            }
+        ],
+        "Cost": 891795
+    },
+    {
+        "Kecamatan_ID": 6,
+        "Vehicle": "Kec6_TRUK_3",
+        "Route_Nodes": [
+            53,
+            58,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 59.15,
+        "Total_Time": 2.72,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.72
+            }
+        ],
+        "Cost": 887175
+    },
+    {
+        "Kecamatan_ID": 6,
+        "Vehicle": "Kec6_TRUK_4",
+        "Route_Nodes": [
+            53,
+            56,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 56.74,
+        "Total_Time": 2.64,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.64
+            }
+        ],
+        "Cost": 851100
+    },
+    {
+        "Kecamatan_ID": 6,
+        "Vehicle": "Kec6_TRUK_5",
+        "Route_Nodes": [
+            53,
+            54,
+            208,
+            53,
+            57,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 112.13,
+        "Total_Time": 5.24,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.63
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.61
+            }
+        ],
+        "Cost": 1682055
+    },
+    {
+        "Kecamatan_ID": 6,
+        "Vehicle": "Kec6_TRUK_6",
+        "Route_Nodes": [
+            53,
+            55,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 56.37,
+        "Total_Time": 2.63,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.63
+            }
+        ],
+        "Cost": 845610
+    },
+    {
+        "Kecamatan_ID": 7,
+        "Vehicle": "Kec7_TRUK_1",
+        "Route_Nodes": [
+            60,
+            66,
+            65,
+            64,
+            63,
+            208
+        ],
+        "Total_Load": 5.37,
+        "Total_Dist": 55.53,
+        "Total_Time": 3.35,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 5.37,
+                "Dur": 3.35
+            }
+        ],
+        "Cost": 833025
+    },
+    {
+        "Kecamatan_ID": 7,
+        "Vehicle": "Kec7_TRUK_2",
+        "Route_Nodes": [
+            60,
+            64,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 52.22,
+        "Total_Time": 2.49,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.49
+            }
+        ],
+        "Cost": 783270
+    },
+    {
+        "Kecamatan_ID": 7,
+        "Vehicle": "Kec7_TRUK_3",
+        "Route_Nodes": [
+            60,
+            66,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 51.99,
+        "Total_Time": 2.48,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.48
+            }
+        ],
+        "Cost": 779910
+    },
+    {
+        "Kecamatan_ID": 7,
+        "Vehicle": "Kec7_TRUK_4",
+        "Route_Nodes": [
+            60,
+            65,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 51.39,
+        "Total_Time": 2.46,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.46
+            }
+        ],
+        "Cost": 770835
+    },
+    {
+        "Kecamatan_ID": 7,
+        "Vehicle": "Kec7_TRUK_5",
+        "Route_Nodes": [
+            60,
+            61,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 47.43,
+        "Total_Time": 2.33,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.33
+            }
+        ],
+        "Cost": 711495
+    },
+    {
+        "Kecamatan_ID": 7,
+        "Vehicle": "Kec7_TRUK_6",
+        "Route_Nodes": [
+            60,
+            63,
+            208,
+            60,
+            62,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 93.44,
+        "Total_Time": 4.61,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.32
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.29
+            }
+        ],
+        "Cost": 1401615
+    },
+    {
+        "Kecamatan_ID": 8,
+        "Vehicle": "Kec8_TRUK_1",
+        "Route_Nodes": [
+            67,
+            72,
+            73,
+            74,
+            69,
+            70,
+            208
+        ],
+        "Total_Load": 5.95,
+        "Total_Dist": 48.4,
+        "Total_Time": 3.36,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 5.95,
+                "Dur": 3.36
+            }
+        ],
+        "Cost": 725955
+    },
+    {
+        "Kecamatan_ID": 8,
+        "Vehicle": "Kec8_TRUK_2",
+        "Route_Nodes": [
+            67,
+            71,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 47.83,
+        "Total_Time": 2.34,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.34
+            }
+        ],
+        "Cost": 717390
+    },
+    {
+        "Kecamatan_ID": 8,
+        "Vehicle": "Kec8_TRUK_3",
+        "Route_Nodes": [
+            67,
+            72,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 46.97,
+        "Total_Time": 2.32,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.32
+            }
+        ],
+        "Cost": 704520
+    },
+    {
+        "Kecamatan_ID": 8,
+        "Vehicle": "Kec8_TRUK_4",
+        "Route_Nodes": [
+            67,
+            74,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 46.22,
+        "Total_Time": 2.29,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.29
+            }
+        ],
+        "Cost": 693360
+    },
+    {
+        "Kecamatan_ID": 8,
+        "Vehicle": "Kec8_TRUK_5",
+        "Route_Nodes": [
+            67,
+            70,
+            208,
+            67,
+            73,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 89.89,
+        "Total_Time": 4.5,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.25
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.25
+            }
+        ],
+        "Cost": 1348275
+    },
+    {
+        "Kecamatan_ID": 8,
+        "Vehicle": "Kec8_TRUK_6",
+        "Route_Nodes": [
+            67,
+            69,
+            208,
+            67,
+            68,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 89.85,
+        "Total_Time": 4.5,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.25
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.25
+            }
+        ],
+        "Cost": 1347765
+    },
+    {
+        "Kecamatan_ID": 9,
+        "Vehicle": "Kec9_TRUK_1",
+        "Route_Nodes": [
+            75,
+            76,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 57.15,
+        "Total_Time": 2.66,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.66
+            }
+        ],
+        "Cost": 857310
+    },
+    {
+        "Kecamatan_ID": 10,
+        "Vehicle": "Kec10_TRUK_1",
+        "Route_Nodes": [
+            77,
+            78,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 56.96,
+        "Total_Time": 2.65,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.65
+            }
+        ],
+        "Cost": 854400
+    },
+    {
+        "Kecamatan_ID": 10,
+        "Vehicle": "Kec10_TRUK_2",
+        "Route_Nodes": [
+            77,
+            81,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 56.96,
+        "Total_Time": 2.65,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.65
+            }
+        ],
+        "Cost": 854400
+    },
+    {
+        "Kecamatan_ID": 10,
+        "Vehicle": "Kec10_TRUK_3",
+        "Route_Nodes": [
+            77,
+            79,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 53.56,
+        "Total_Time": 2.54,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.54
+            }
+        ],
+        "Cost": 803385
+    },
+    {
+        "Kecamatan_ID": 10,
+        "Vehicle": "Kec10_TRUK_4",
+        "Route_Nodes": [
+            77,
+            79,
+            208
+        ],
+        "Total_Load": 1.7,
+        "Total_Dist": 53.56,
+        "Total_Time": 2.54,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 1.7,
+                "Dur": 2.54
+            }
+        ],
+        "Cost": 803385
+    },
+    {
+        "Kecamatan_ID": 10,
+        "Vehicle": "Kec10_TRUK_5",
+        "Route_Nodes": [
+            77,
+            80,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 53.55,
+        "Total_Time": 2.53,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.53
+            }
+        ],
+        "Cost": 803220
+    },
+    {
+        "Kecamatan_ID": 11,
+        "Vehicle": "Kec11_TRUK_1",
+        "Route_Nodes": [
+            82,
+            87,
+            85,
+            208
+        ],
+        "Total_Load": 3.08,
+        "Total_Dist": 55.39,
+        "Total_Time": 2.85,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 3.08,
+                "Dur": 2.85
+            }
+        ],
+        "Cost": 830880
+    },
+    {
+        "Kecamatan_ID": 11,
+        "Vehicle": "Kec11_TRUK_2",
+        "Route_Nodes": [
+            82,
+            83,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 57.54,
+        "Total_Time": 2.67,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.67
+            }
+        ],
+        "Cost": 863085
+    },
+    {
+        "Kecamatan_ID": 11,
+        "Vehicle": "Kec11_TRUK_3",
+        "Route_Nodes": [
+            82,
+            85,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 55.43,
+        "Total_Time": 2.6,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.6
+            }
+        ],
+        "Cost": 831420
+    },
+    {
+        "Kecamatan_ID": 11,
+        "Vehicle": "Kec11_TRUK_4",
+        "Route_Nodes": [
+            82,
+            87,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 53.8,
+        "Total_Time": 2.54,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.54
+            }
+        ],
+        "Cost": 807075
+    },
+    {
+        "Kecamatan_ID": 11,
+        "Vehicle": "Kec11_TRUK_5",
+        "Route_Nodes": [
+            82,
+            86,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 53.4,
+        "Total_Time": 2.53,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.53
+            }
+        ],
+        "Cost": 801060
+    },
+    {
+        "Kecamatan_ID": 11,
+        "Vehicle": "Kec11_TRUK_6",
+        "Route_Nodes": [
+            82,
+            84,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 51.71,
+        "Total_Time": 2.47,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.47
+            }
+        ],
+        "Cost": 775590
+    },
+    {
+        "Kecamatan_ID": 12,
+        "Vehicle": "Kec12_TRUK_1",
+        "Route_Nodes": [
+            88,
+            89,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 48.42,
+        "Total_Time": 2.36,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.36
+            }
+        ],
+        "Cost": 726330
+    },
+    {
+        "Kecamatan_ID": 12,
+        "Vehicle": "Kec12_TRUK_2",
+        "Route_Nodes": [
+            88,
+            89,
+            208
+        ],
+        "Total_Load": 0.61,
+        "Total_Dist": 48.42,
+        "Total_Time": 2.36,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 0.61,
+                "Dur": 2.36
+            }
+        ],
+        "Cost": 726330
+    },
+    {
+        "Kecamatan_ID": 12,
+        "Vehicle": "Kec12_TRUK_3",
+        "Route_Nodes": [
+            88,
+            90,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 48.14,
+        "Total_Time": 2.35,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.35
+            }
+        ],
+        "Cost": 722085
+    },
+    {
+        "Kecamatan_ID": 13,
+        "Vehicle": "Kec13_TRUK_1",
+        "Route_Nodes": [
+            91,
+            96,
+            92,
+            93,
+            97,
+            208
+        ],
+        "Total_Load": 5.65,
+        "Total_Dist": 49.69,
+        "Total_Time": 3.16,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 5.65,
+                "Dur": 3.16
+            }
+        ],
+        "Cost": 745335
+    },
+    {
+        "Kecamatan_ID": 13,
+        "Vehicle": "Kec13_TRUK_2",
+        "Route_Nodes": [
+            91,
+            97,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 45.68,
+        "Total_Time": 2.27,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.27
+            }
+        ],
+        "Cost": 685170
+    },
+    {
+        "Kecamatan_ID": 13,
+        "Vehicle": "Kec13_TRUK_3",
+        "Route_Nodes": [
+            91,
+            92,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 44.51,
+        "Total_Time": 2.23,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.23
+            }
+        ],
+        "Cost": 667575
+    },
+    {
+        "Kecamatan_ID": 13,
+        "Vehicle": "Kec13_TRUK_4",
+        "Route_Nodes": [
+            91,
+            93,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 43.97,
+        "Total_Time": 2.22,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.22
+            }
+        ],
+        "Cost": 659565
+    },
+    {
+        "Kecamatan_ID": 13,
+        "Vehicle": "Kec13_TRUK_5",
+        "Route_Nodes": [
+            91,
+            95,
+            208,
+            91,
+            94,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 86.77,
+        "Total_Time": 4.4,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.2
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.2
+            }
+        ],
+        "Cost": 1301580
+    },
+    {
+        "Kecamatan_ID": 13,
+        "Vehicle": "Kec13_TRUK_6",
+        "Route_Nodes": [
+            91,
+            96,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 43.52,
+        "Total_Time": 2.2,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.2
+            }
+        ],
+        "Cost": 652800
+    },
+    {
+        "Kecamatan_ID": 14,
+        "Vehicle": "Kec14_TRUK_1",
+        "Route_Nodes": [
+            98,
+            105,
+            108,
+            102,
+            112,
+            103,
+            208,
+            98,
+            109,
+            208
+        ],
+        "Total_Load": 10.9,
+        "Total_Dist": 100.37,
+        "Total_Time": 5.84,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 4.9,
+                "Dur": 3.53
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.31
+            }
+        ],
+        "Cost": 1505475
+    },
+    {
+        "Kecamatan_ID": 14,
+        "Vehicle": "Kec14_TRUK_2",
+        "Route_Nodes": [
+            98,
+            108,
+            208,
+            98,
+            100,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 99.61,
+        "Total_Time": 4.82,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.49
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.33
+            }
+        ],
+        "Cost": 1494225
+    },
+    {
+        "Kecamatan_ID": 14,
+        "Vehicle": "Kec14_TRUK_3",
+        "Route_Nodes": [
+            98,
+            105,
+            208,
+            98,
+            99,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 99.52,
+        "Total_Time": 4.81,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.48
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.33
+            }
+        ],
+        "Cost": 1492710
+    },
+    {
+        "Kecamatan_ID": 14,
+        "Vehicle": "Kec14_TRUK_4",
+        "Route_Nodes": [
+            98,
+            104,
+            208,
+            98,
+            112,
+            208,
+            98,
+            106,
+            208
+        ],
+        "Total_Load": 18.0,
+        "Total_Dist": 142.86,
+        "Total_Time": 7.02,
+        "Status": "AMAN",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.4
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.33
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.29
+            }
+        ],
+        "Cost": 2142795
+    },
+    {
+        "Kecamatan_ID": 14,
+        "Vehicle": "Kec14_TRUK_5",
+        "Route_Nodes": [
+            98,
+            107,
+            208,
+            98,
+            110,
+            208,
+            98,
+            111,
+            208
+        ],
+        "Total_Load": 18.0,
+        "Total_Dist": 142.22,
+        "Total_Time": 6.99,
+        "Status": "AMAN",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.35
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.34
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.3
+            }
+        ],
+        "Cost": 2133285
+    },
+    {
+        "Kecamatan_ID": 14,
+        "Vehicle": "Kec14_TRUK_6",
+        "Route_Nodes": [
+            98,
+            101,
+            208,
+            98,
+            102,
+            208,
+            98,
+            103,
+            208
+        ],
+        "Total_Load": 18.0,
+        "Total_Dist": 141.81,
+        "Total_Time": 6.98,
+        "Status": "AMAN",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.34
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.34
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.3
+            }
+        ],
+        "Cost": 2127195
+    },
+    {
+        "Kecamatan_ID": 15,
+        "Vehicle": "Kec15_TRUK_1",
+        "Route_Nodes": [
+            113,
+            115,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 56.06,
+        "Total_Time": 2.62,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.62
+            }
+        ],
+        "Cost": 840975
+    },
+    {
+        "Kecamatan_ID": 15,
+        "Vehicle": "Kec15_TRUK_2",
+        "Route_Nodes": [
+            113,
+            116,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 55.36,
+        "Total_Time": 2.6,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.6
+            }
+        ],
+        "Cost": 830415
+    },
+    {
+        "Kecamatan_ID": 15,
+        "Vehicle": "Kec15_TRUK_3",
+        "Route_Nodes": [
+            113,
+            114,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 54.91,
+        "Total_Time": 2.58,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.58
+            }
+        ],
+        "Cost": 823665
+    },
+    {
+        "Kecamatan_ID": 16,
+        "Vehicle": "Kec16_TRUK_1",
+        "Route_Nodes": [
+            117,
+            126,
+            119,
+            128,
+            123,
+            208,
+            117,
+            125,
+            208
+        ],
+        "Total_Load": 10.79,
+        "Total_Dist": 91.55,
+        "Total_Time": 5.31,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 4.79,
+                "Dur": 3.07
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.24
+            }
+        ],
+        "Cost": 1373280
+    },
+    {
+        "Kecamatan_ID": 16,
+        "Vehicle": "Kec16_TRUK_2",
+        "Route_Nodes": [
+            117,
+            121,
+            125,
+            208,
+            117,
+            126,
+            208
+        ],
+        "Total_Load": 8.49,
+        "Total_Dist": 91.88,
+        "Total_Time": 4.81,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 2.49,
+                "Dur": 2.55
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.26
+            }
+        ],
+        "Cost": 1378275
+    },
+    {
+        "Kecamatan_ID": 16,
+        "Vehicle": "Kec16_TRUK_3",
+        "Route_Nodes": [
+            117,
+            128,
+            208,
+            117,
+            119,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 92.07,
+        "Total_Time": 4.57,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.31
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.26
+            }
+        ],
+        "Cost": 1381080
+    },
+    {
+        "Kecamatan_ID": 16,
+        "Vehicle": "Kec16_TRUK_4",
+        "Route_Nodes": [
+            117,
+            121,
+            208,
+            117,
+            118,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 91.88,
+        "Total_Time": 4.56,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.3
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.26
+            }
+        ],
+        "Cost": 1378275
+    },
+    {
+        "Kecamatan_ID": 16,
+        "Vehicle": "Kec16_TRUK_5",
+        "Route_Nodes": [
+            117,
+            123,
+            208,
+            117,
+            127,
+            208,
+            117,
+            124,
+            208
+        ],
+        "Total_Load": 18.0,
+        "Total_Dist": 135.47,
+        "Total_Time": 6.77,
+        "Status": "AMAN",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.27
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.26
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.24
+            }
+        ],
+        "Cost": 2032065
+    },
+    {
+        "Kecamatan_ID": 16,
+        "Vehicle": "Kec16_TRUK_6",
+        "Route_Nodes": [
+            117,
+            120,
+            208,
+            117,
+            122,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 90.74,
+        "Total_Time": 4.53,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.27
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.26
+            }
+        ],
+        "Cost": 1361175
+    },
+    {
+        "Kecamatan_ID": 17,
+        "Vehicle": "Kec17_TRUK_1",
+        "Route_Nodes": [
+            129,
+            133,
+            135,
+            134,
+            208
+        ],
+        "Total_Load": 3.37,
+        "Total_Dist": 53.85,
+        "Total_Time": 3.05,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 3.37,
+                "Dur": 3.05
+            }
+        ],
+        "Cost": 807825
+    },
+    {
+        "Kecamatan_ID": 17,
+        "Vehicle": "Kec17_TRUK_2",
+        "Route_Nodes": [
+            129,
+            135,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 52.73,
+        "Total_Time": 2.51,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.51
+            }
+        ],
+        "Cost": 790875
+    },
+    {
+        "Kecamatan_ID": 17,
+        "Vehicle": "Kec17_TRUK_3",
+        "Route_Nodes": [
+            129,
+            133,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 52.26,
+        "Total_Time": 2.49,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.49
+            }
+        ],
+        "Cost": 783825
+    },
+    {
+        "Kecamatan_ID": 17,
+        "Vehicle": "Kec17_TRUK_4",
+        "Route_Nodes": [
+            129,
+            134,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 50.53,
+        "Total_Time": 2.43,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.43
+            }
+        ],
+        "Cost": 757980
+    },
+    {
+        "Kecamatan_ID": 17,
+        "Vehicle": "Kec17_TRUK_5",
+        "Route_Nodes": [
+            129,
+            132,
+            208,
+            129,
+            130,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 98.16,
+        "Total_Time": 4.77,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.39
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.38
+            }
+        ],
+        "Cost": 1472475
+    },
+    {
+        "Kecamatan_ID": 17,
+        "Vehicle": "Kec17_TRUK_6",
+        "Route_Nodes": [
+            129,
+            132,
+            208,
+            129,
+            131,
+            208
+        ],
+        "Total_Load": 9.07,
+        "Total_Dist": 98.16,
+        "Total_Time": 4.77,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 3.07,
+                "Dur": 2.39
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.38
+            }
+        ],
+        "Cost": 1472475
+    },
+    {
+        "Kecamatan_ID": 18,
+        "Vehicle": "Kec18_TRUK_1",
+        "Route_Nodes": [
+            136,
+            144,
+            139,
+            143,
+            141,
+            208
+        ],
+        "Total_Load": 3.92,
+        "Total_Dist": 52.03,
+        "Total_Time": 3.23,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 3.92,
+                "Dur": 3.23
+            }
+        ],
+        "Cost": 780450
+    },
+    {
+        "Kecamatan_ID": 18,
+        "Vehicle": "Kec18_TRUK_2",
+        "Route_Nodes": [
+            136,
+            138,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 49.59,
+        "Total_Time": 2.4,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.4
+            }
+        ],
+        "Cost": 743820
+    },
+    {
+        "Kecamatan_ID": 18,
+        "Vehicle": "Kec18_TRUK_3",
+        "Route_Nodes": [
+            136,
+            141,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 49.59,
+        "Total_Time": 2.4,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.4
+            }
+        ],
+        "Cost": 743835
+    },
+    {
+        "Kecamatan_ID": 18,
+        "Vehicle": "Kec18_TRUK_4",
+        "Route_Nodes": [
+            136,
+            142,
+            208,
+            136,
+            143,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 95.54,
+        "Total_Time": 4.68,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.39
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.29
+            }
+        ],
+        "Cost": 1432995
+    },
+    {
+        "Kecamatan_ID": 18,
+        "Vehicle": "Kec18_TRUK_5",
+        "Route_Nodes": [
+            136,
+            139,
+            208,
+            136,
+            140,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 94.78,
+        "Total_Time": 4.66,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.35
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.31
+            }
+        ],
+        "Cost": 1421700
+    },
+    {
+        "Kecamatan_ID": 18,
+        "Vehicle": "Kec18_TRUK_6",
+        "Route_Nodes": [
+            136,
+            144,
+            208,
+            136,
+            137,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 94.57,
+        "Total_Time": 4.65,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.33
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.32
+            }
+        ],
+        "Cost": 1418505
+    },
+    {
+        "Kecamatan_ID": 19,
+        "Vehicle": "Kec19_TRUK_1",
+        "Route_Nodes": [
+            145,
+            148,
+            150,
+            147,
+            151,
+            208
+        ],
+        "Total_Load": 4.72,
+        "Total_Dist": 55.73,
+        "Total_Time": 3.36,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 4.72,
+                "Dur": 3.36
+            }
+        ],
+        "Cost": 835890
+    },
+    {
+        "Kecamatan_ID": 19,
+        "Vehicle": "Kec19_TRUK_2",
+        "Route_Nodes": [
+            145,
+            146,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 50.92,
+        "Total_Time": 2.45,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.45
+            }
+        ],
+        "Cost": 763770
+    },
+    {
+        "Kecamatan_ID": 19,
+        "Vehicle": "Kec19_TRUK_3",
+        "Route_Nodes": [
+            145,
+            147,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 50.62,
+        "Total_Time": 2.44,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.44
+            }
+        ],
+        "Cost": 759300
+    },
+    {
+        "Kecamatan_ID": 19,
+        "Vehicle": "Kec19_TRUK_4",
+        "Route_Nodes": [
+            145,
+            148,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 49.71,
+        "Total_Time": 2.41,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.41
+            }
+        ],
+        "Cost": 745590
+    },
+    {
+        "Kecamatan_ID": 19,
+        "Vehicle": "Kec19_TRUK_5",
+        "Route_Nodes": [
+            145,
+            152,
+            208,
+            145,
+            149,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 96.75,
+        "Total_Time": 4.72,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.37
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.35
+            }
+        ],
+        "Cost": 1451355
+    },
+    {
+        "Kecamatan_ID": 19,
+        "Vehicle": "Kec19_TRUK_6",
+        "Route_Nodes": [
+            145,
+            150,
+            208,
+            145,
+            151,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 95.82,
+        "Total_Time": 4.7,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.37
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.33
+            }
+        ],
+        "Cost": 1437180
+    },
+    {
+        "Kecamatan_ID": 20,
+        "Vehicle": "Kec20_TRUK_1",
+        "Route_Nodes": [
+            153,
+            157,
+            156,
+            159,
+            155,
+            208
+        ],
+        "Total_Load": 3.34,
+        "Total_Dist": 49.89,
+        "Total_Time": 3.16,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 3.34,
+                "Dur": 3.16
+            }
+        ],
+        "Cost": 748305
+    },
+    {
+        "Kecamatan_ID": 20,
+        "Vehicle": "Kec20_TRUK_2",
+        "Route_Nodes": [
+            153,
+            157,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 50.67,
+        "Total_Time": 2.44,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.44
+            }
+        ],
+        "Cost": 759990
+    },
+    {
+        "Kecamatan_ID": 20,
+        "Vehicle": "Kec20_TRUK_3",
+        "Route_Nodes": [
+            153,
+            154,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 47.97,
+        "Total_Time": 2.35,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.35
+            }
+        ],
+        "Cost": 719490
+    },
+    {
+        "Kecamatan_ID": 20,
+        "Vehicle": "Kec20_TRUK_4",
+        "Route_Nodes": [
+            153,
+            156,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 46.66,
+        "Total_Time": 2.31,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.31
+            }
+        ],
+        "Cost": 699945
+    },
+    {
+        "Kecamatan_ID": 20,
+        "Vehicle": "Kec20_TRUK_5",
+        "Route_Nodes": [
+            153,
+            155,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 46.23,
+        "Total_Time": 2.29,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.29
+            }
+        ],
+        "Cost": 693450
+    },
+    {
+        "Kecamatan_ID": 20,
+        "Vehicle": "Kec20_TRUK_6",
+        "Route_Nodes": [
+            153,
+            158,
+            208,
+            153,
+            159,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 90.95,
+        "Total_Time": 4.53,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.27
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.26
+            }
+        ],
+        "Cost": 1364145
+    },
+    {
+        "Kecamatan_ID": 21,
+        "Vehicle": "Kec21_TRUK_1",
+        "Route_Nodes": [
+            160,
+            164,
+            161,
+            208
+        ],
+        "Total_Load": 4.34,
+        "Total_Dist": 50.52,
+        "Total_Time": 2.68,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 4.34,
+                "Dur": 2.68
+            }
+        ],
+        "Cost": 757815
+    },
+    {
+        "Kecamatan_ID": 21,
+        "Vehicle": "Kec21_TRUK_2",
+        "Route_Nodes": [
+            160,
+            162,
+            163,
+            208
+        ],
+        "Total_Load": 2.8,
+        "Total_Dist": 46.1,
+        "Total_Time": 2.54,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 2.8,
+                "Dur": 2.54
+            }
+        ],
+        "Cost": 691530
+    },
+    {
+        "Kecamatan_ID": 21,
+        "Vehicle": "Kec21_TRUK_3",
+        "Route_Nodes": [
+            160,
+            161,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 49.63,
+        "Total_Time": 2.4,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.4
+            }
+        ],
+        "Cost": 744420
+    },
+    {
+        "Kecamatan_ID": 21,
+        "Vehicle": "Kec21_TRUK_4",
+        "Route_Nodes": [
+            160,
+            163,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 44.93,
+        "Total_Time": 2.25,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.25
+            }
+        ],
+        "Cost": 673890
+    },
+    {
+        "Kecamatan_ID": 21,
+        "Vehicle": "Kec21_TRUK_5",
+        "Route_Nodes": [
+            160,
+            162,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 44.62,
+        "Total_Time": 2.24,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.24
+            }
+        ],
+        "Cost": 669345
+    },
+    {
+        "Kecamatan_ID": 21,
+        "Vehicle": "Kec21_TRUK_6",
+        "Route_Nodes": [
+            160,
+            164,
+            208,
+            160,
+            165,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 88.81,
+        "Total_Time": 4.46,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.23
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.23
+            }
+        ],
+        "Cost": 1332090
+    },
+    {
+        "Kecamatan_ID": 22,
+        "Vehicle": "Kec22_TRUK_1",
+        "Route_Nodes": [
+            166,
+            176,
+            175,
+            168,
+            174,
+            169,
+            208,
+            166,
+            173,
+            208
+        ],
+        "Total_Load": 11.95,
+        "Total_Dist": 88.86,
+        "Total_Time": 5.46,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 5.95,
+                "Dur": 3.26
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.2
+            }
+        ],
+        "Cost": 1332945
+    },
+    {
+        "Kecamatan_ID": 22,
+        "Vehicle": "Kec22_TRUK_2",
+        "Route_Nodes": [
+            166,
+            170,
+            172,
+            177,
+            208,
+            166,
+            169,
+            208
+        ],
+        "Total_Load": 11.68,
+        "Total_Dist": 90.83,
+        "Total_Time": 5.03,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 5.68,
+                "Dur": 2.82
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.21
+            }
+        ],
+        "Cost": 1362555
+    },
+    {
+        "Kecamatan_ID": 22,
+        "Vehicle": "Kec22_TRUK_3",
+        "Route_Nodes": [
+            166,
+            171,
+            208,
+            166,
+            176,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 89.86,
+        "Total_Time": 4.49,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.27
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.22
+            }
+        ],
+        "Cost": 1347930
+    },
+    {
+        "Kecamatan_ID": 22,
+        "Vehicle": "Kec22_TRUK_4",
+        "Route_Nodes": [
+            166,
+            172,
+            208,
+            166,
+            167,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 89.59,
+        "Total_Time": 4.48,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.25
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.23
+            }
+        ],
+        "Cost": 1343925
+    },
+    {
+        "Kecamatan_ID": 22,
+        "Vehicle": "Kec22_TRUK_5",
+        "Route_Nodes": [
+            166,
+            175,
+            208,
+            166,
+            170,
+            208
+        ],
+        "Total_Load": 12.0,
+        "Total_Dist": 89.44,
+        "Total_Time": 4.48,
+        "Status": "AMAN",
+        "Rit_Count": 2,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.25
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.23
+            }
+        ],
+        "Cost": 1341630
+    },
+    {
+        "Kecamatan_ID": 22,
+        "Vehicle": "Kec22_TRUK_6",
+        "Route_Nodes": [
+            166,
+            168,
+            208,
+            166,
+            177,
+            208,
+            166,
+            174,
+            208
+        ],
+        "Total_Load": 18.0,
+        "Total_Dist": 132.72,
+        "Total_Time": 6.67,
+        "Status": "AMAN",
+        "Rit_Count": 3,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.24
+            },
+            {
+                "Rit_Ke": 2,
+                "Load": 6.0,
+                "Dur": 2.23
+            },
+            {
+                "Rit_Ke": 3,
+                "Load": 6.0,
+                "Dur": 2.2
+            }
+        ],
+        "Cost": 1990725
+    },
+    {
+        "Kecamatan_ID": 23,
+        "Vehicle": "Kec23_TRUK_1",
+        "Route_Nodes": [
+            178,
+            179,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 36.63,
+        "Total_Time": 1.97,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 1.97
+            }
+        ],
+        "Cost": 549450
+    },
+    {
+        "Kecamatan_ID": 23,
+        "Vehicle": "Kec23_TRUK_2",
+        "Route_Nodes": [
+            178,
+            179,
+            208
+        ],
+        "Total_Load": 0.19,
+        "Total_Dist": 36.63,
+        "Total_Time": 1.97,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 0.19,
+                "Dur": 1.97
+            }
+        ],
+        "Cost": 549450
+    },
+    {
+        "Kecamatan_ID": 24,
+        "Vehicle": "Kec24_TRUK_1",
+        "Route_Nodes": [
+            180,
+            182,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 51.03,
+        "Total_Time": 2.45,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.45
+            }
+        ],
+        "Cost": 765450
+    },
+    {
+        "Kecamatan_ID": 24,
+        "Vehicle": "Kec24_TRUK_2",
+        "Route_Nodes": [
+            180,
+            181,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 49.44,
+        "Total_Time": 2.4,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.4
+            }
+        ],
+        "Cost": 741600
+    },
+    {
+        "Kecamatan_ID": 24,
+        "Vehicle": "Kec24_TRUK_3",
+        "Route_Nodes": [
+            180,
+            181,
+            208
+        ],
+        "Total_Load": 1.06,
+        "Total_Dist": 49.44,
+        "Total_Time": 2.4,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 1.06,
+                "Dur": 2.4
+            }
+        ],
+        "Cost": 741600
+    },
+    {
+        "Kecamatan_ID": 24,
+        "Vehicle": "Kec24_TRUK_4",
+        "Route_Nodes": [
+            180,
+            183,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 49.58,
+        "Total_Time": 2.4,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.4
+            }
+        ],
+        "Cost": 743640
+    },
+    {
+        "Kecamatan_ID": 24,
+        "Vehicle": "Kec24_TRUK_5",
+        "Route_Nodes": [
+            180,
+            184,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 49.1,
+        "Total_Time": 2.39,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.39
+            }
+        ],
+        "Cost": 736500
+    },
+    {
+        "Kecamatan_ID": 25,
+        "Vehicle": "Kec25_TRUK_1",
+        "Route_Nodes": [
+            185,
+            187,
+            188,
+            208
+        ],
+        "Total_Load": 0.41,
+        "Total_Dist": 44.61,
+        "Total_Time": 2.49,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 0.41,
+                "Dur": 2.49
+            }
+        ],
+        "Cost": 669090
+    },
+    {
+        "Kecamatan_ID": 25,
+        "Vehicle": "Kec25_TRUK_2",
+        "Route_Nodes": [
+            185,
+            186,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 45.12,
+        "Total_Time": 2.25,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.25
+            }
+        ],
+        "Cost": 676785
+    },
+    {
+        "Kecamatan_ID": 25,
+        "Vehicle": "Kec25_TRUK_3",
+        "Route_Nodes": [
+            185,
+            188,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 44.54,
+        "Total_Time": 2.23,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.23
+            }
+        ],
+        "Cost": 668040
+    },
+    {
+        "Kecamatan_ID": 25,
+        "Vehicle": "Kec25_TRUK_4",
+        "Route_Nodes": [
+            185,
+            187,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 44.01,
+        "Total_Time": 2.22,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.22
+            }
+        ],
+        "Cost": 660105
+    },
+    {
+        "Kecamatan_ID": 26,
+        "Vehicle": "Kec26_TRUK_1",
+        "Route_Nodes": [
+            189,
+            191,
+            190,
+            208
+        ],
+        "Total_Load": 2.41,
+        "Total_Dist": 54.76,
+        "Total_Time": 2.83,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 2.41,
+                "Dur": 2.83
+            }
+        ],
+        "Cost": 821460
+    },
+    {
+        "Kecamatan_ID": 26,
+        "Vehicle": "Kec26_TRUK_2",
+        "Route_Nodes": [
+            189,
+            192,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 54.45,
+        "Total_Time": 2.57,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.57
+            }
+        ],
+        "Cost": 816825
+    },
+    {
+        "Kecamatan_ID": 26,
+        "Vehicle": "Kec26_TRUK_3",
+        "Route_Nodes": [
+            189,
+            190,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 53.84,
+        "Total_Time": 2.54,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.54
+            }
+        ],
+        "Cost": 807585
+    },
+    {
+        "Kecamatan_ID": 26,
+        "Vehicle": "Kec26_TRUK_4",
+        "Route_Nodes": [
+            189,
+            191,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 53.53,
+        "Total_Time": 2.53,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.53
+            }
+        ],
+        "Cost": 802935
+    },
+    {
+        "Kecamatan_ID": 27,
+        "Vehicle": "Kec27_TRUK_1",
+        "Route_Nodes": [
+            193,
+            197,
+            196,
+            198,
+            195,
+            208
+        ],
+        "Total_Load": 3.63,
+        "Total_Dist": 46.5,
+        "Total_Time": 3.05,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 3.63,
+                "Dur": 3.05
+            }
+        ],
+        "Cost": 697560
+    },
+    {
+        "Kecamatan_ID": 27,
+        "Vehicle": "Kec27_TRUK_2",
+        "Route_Nodes": [
+            193,
+            194,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 45.88,
+        "Total_Time": 2.28,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.28
+            }
+        ],
+        "Cost": 688155
+    },
+    {
+        "Kecamatan_ID": 27,
+        "Vehicle": "Kec27_TRUK_3",
+        "Route_Nodes": [
+            193,
+            197,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 43.44,
+        "Total_Time": 2.2,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.2
+            }
+        ],
+        "Cost": 651645
+    },
+    {
+        "Kecamatan_ID": 27,
+        "Vehicle": "Kec27_TRUK_4",
+        "Route_Nodes": [
+            193,
+            195,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 42.77,
+        "Total_Time": 2.18,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.18
+            }
+        ],
+        "Cost": 641565
+    },
+    {
+        "Kecamatan_ID": 27,
+        "Vehicle": "Kec27_TRUK_5",
+        "Route_Nodes": [
+            193,
+            198,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 42.9,
+        "Total_Time": 2.18,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.18
+            }
+        ],
+        "Cost": 643455
+    },
+    {
+        "Kecamatan_ID": 27,
+        "Vehicle": "Kec27_TRUK_6",
+        "Route_Nodes": [
+            193,
+            196,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 42.9,
+        "Total_Time": 2.18,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.18
+            }
+        ],
+        "Cost": 643470
+    },
+    {
+        "Kecamatan_ID": 28,
+        "Vehicle": "Kec28_TRUK_1",
+        "Route_Nodes": [
+            199,
+            201,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 65.99,
+        "Total_Time": 2.95,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.95
+            }
+        ],
+        "Cost": 989894
+    },
+    {
+        "Kecamatan_ID": 28,
+        "Vehicle": "Kec28_TRUK_2",
+        "Route_Nodes": [
+            199,
+            200,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 59.57,
+        "Total_Time": 2.74,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.74
+            }
+        ],
+        "Cost": 893535
+    },
+    {
+        "Kecamatan_ID": 29,
+        "Vehicle": "Kec29_TRUK_1",
+        "Route_Nodes": [
+            202,
+            205,
+            204,
+            207,
+            208
+        ],
+        "Total_Load": 3.1,
+        "Total_Dist": 58.76,
+        "Total_Time": 3.21,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 3.1,
+                "Dur": 3.21
+            }
+        ],
+        "Cost": 881340
+    },
+    {
+        "Kecamatan_ID": 29,
+        "Vehicle": "Kec29_TRUK_2",
+        "Route_Nodes": [
+            202,
+            205,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 53.77,
+        "Total_Time": 2.54,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.54
+            }
+        ],
+        "Cost": 806580
+    },
+    {
+        "Kecamatan_ID": 29,
+        "Vehicle": "Kec29_TRUK_3",
+        "Route_Nodes": [
+            202,
+            206,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 52.73,
+        "Total_Time": 2.51,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.51
+            }
+        ],
+        "Cost": 790995
+    },
+    {
+        "Kecamatan_ID": 29,
+        "Vehicle": "Kec29_TRUK_4",
+        "Route_Nodes": [
+            202,
+            207,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 52.17,
+        "Total_Time": 2.49,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.49
+            }
+        ],
+        "Cost": 782550
+    },
+    {
+        "Kecamatan_ID": 29,
+        "Vehicle": "Kec29_TRUK_5",
+        "Route_Nodes": [
+            202,
+            203,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 51.77,
+        "Total_Time": 2.48,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.48
+            }
+        ],
+        "Cost": 776550
+    },
+    {
+        "Kecamatan_ID": 29,
+        "Vehicle": "Kec29_TRUK_6",
+        "Route_Nodes": [
+            202,
+            204,
+            208
+        ],
+        "Total_Load": 6.0,
+        "Total_Dist": 51.25,
+        "Total_Time": 2.46,
+        "Status": "AMAN",
+        "Rit_Count": 1,
+        "Details": [
+            {
+                "Rit_Ke": 1,
+                "Load": 6.0,
+                "Dur": 2.46
+            }
+        ],
+        "Cost": 768765
+    }
+]
