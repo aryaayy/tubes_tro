@@ -1,4 +1,4 @@
-# Implementasi Algoritma Transshipment dan Visualisasi Rute Berbasis Openstreetmap untuk Efisiensi Logistik Sampah Di Kota Bandung
+# OPTIMASI JARINGAN TRANSSHIPMENT SAMPAH DUA TINGKAT (TWO-ECHELON) MENGGUNAKAN ALGORITMA SPLIT DELIVERY VRP BERBASIS OPENSTREETMAP DI KOTA BANDUNG
 
 ## Struktur Folder Project
 * **dataset**: Berisi data-data mentah yang digunakan untuk menjalankan algoritma transshipment.
